@@ -1,7 +1,7 @@
 # Mission_TA
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Sehir_University_Logo.png" width=100>
-<img src="https://cdn-images-1.medium.com/max/1350/1*Gvo0ep9MCvQcCQUBQ0TD9Q.png" width=00>
+<img src="https://cdn-images-1.medium.com/max/1350/1*Gvo0ep9MCvQcCQUBQ0TD9Q.png" width=500>
 </div>
 
 - <a href="http://sehir.edu.tr/"> Istanbul Sehir University </a> - CS340 Computer Systems
