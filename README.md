@@ -14,10 +14,10 @@ This repository contains various Data Science projects using <a href="https://sp
 
 - Data: The XY coordinations of three stones thrown 1 million times on a 100x100 Grid
 - Tasks:
--- Finding valid triangles
--- Finding neighbour triangles
--- Calculating triangles circumferences
--- Exploring the relation between the number of triangle's neighbours and its circumference
+--* Finding valid triangles
+--* Finding neighbour triangles
+--* Calculating triangles circumferences
+--* Exploring the relation between the number of triangle's neighbours and its circumference
 - <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/triangles_weeks3_5.ipynb"> Link</a>
 
 #### Lessons
@@ -28,13 +28,13 @@ This repository contains various Data Science projects using <a href="https://sp
 
 ### Dataframes: Analyzing books ratings
 - Books:
-.. Data: Books names, authors, tags, ratings and other features
-.. Task: Getting top rated books and tags, and presenting the results in pretty visuals
-.. <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week7_dataframes.ipynb">Link</a>
+..* Data: Books names, authors, tags, ratings and other features
+..* Task: Getting top rated books and tags, and presenting the results in pretty visuals
+..* <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week7_dataframes.ipynb">Link</a>
 - Movies:
-.. Data: <a href="https://www.kaggle.com/grouplens/movielens-20m-dataset"> Movie ratings</a>
-.. Task: Getting top rated movies using dataframe operations
-.. <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week7_movielens.ipynb">Link</a>
+..* Data: <a href="https://www.kaggle.com/grouplens/movielens-20m-dataset"> Movie ratings</a>
+..* Task: Getting top rated movies using dataframe operations
+..* <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week7_movielens.ipynb">Link</a>
 
 #### Lessons
 
