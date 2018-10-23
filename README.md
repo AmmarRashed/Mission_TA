@@ -1,6 +1,5 @@
 # Mission_TA
-- <a href="http://sehir.edu.tr/"> Istanbul Sehir University </a> - CS340 Computer Systems
-This repository contains various Data Science projects using <a href="https://spark.apache.org/">Spark</a> (some include <a href="https://console.bluemix.net/catalog/"> Bluemix</a>) that I used as a TA for Computer Systems.
+This repository contains various Data Science projects using <a href="https://spark.apache.org/">Spark</a> (some include <a href="https://console.bluemix.net/catalog/"> Bluemix</a>) that I used as a TA for CS340 Computer Systems in <a href="http://sehir.edu.tr/"> Istanbul Sehir University </a>.
 
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Sehir_University_Logo.png" width=100>
