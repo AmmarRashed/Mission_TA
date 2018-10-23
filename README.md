@@ -32,7 +32,7 @@ This repository contains various Data Science projects using <a href="https://sp
   - Task: Getting top rated books and tags, and presenting the results in pretty visuals
   - <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week7_dataframes.ipynb">Link</a>
 - Movies:
-  - Data: <a href="https://www.kaggle.com/grouplens/movielens-20m-dataset"> Movie ratings</a>
+  - Data: <a href="https://grouplens.org/datasets/movielens/"> MovieLens 20m</a>
   - Task: Getting top rated movies using dataframe operations
   - <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week7_movielens.ipynb">Link</a>
 
