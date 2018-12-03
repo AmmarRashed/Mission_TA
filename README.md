@@ -9,7 +9,7 @@ This repository contains various Data Science projects using <a href="https://sp
 
 ## Projects
 
-### Spark Context, RDDs & MapReduce: GO triangles
+### <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/triangles_weeks3_5.ipynb">  Spark Context, RDDs & MapReduce: GO triangles</a>
 
 - Data: The XY coordinations of three stones thrown 1 million times on a 100x100 Grid
 - Tasks:
@@ -17,7 +17,6 @@ This repository contains various Data Science projects using <a href="https://sp
   - Finding neighbour triangles
   - Calculating triangles circumferences
   - Exploring the relation between the number of triangle's neighbours and its circumference
-- <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/triangles_weeks3_5.ipynb"> Link</a>
 
 #### Lessons
 - Intro to Spark sessions
