@@ -26,14 +26,13 @@ This repository contains various Data Science projects using <a href="https://sp
 - Learning how to use MapReduce
 
 ### Dataframes: Analyzing books ratings
-- Books:
+- <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week7_dataframes.ipynb">Books:</a>
   - Data: Books names, authors, tags, ratings and other features
   - Task: Getting top rated books and tags, and presenting the results in pretty visuals
-  - <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week7_dataframes.ipynb">Link</a>
-- Movies:
+- <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week7_movielens.ipynb">Movies:</a>
   - Data: <a href="https://grouplens.org/datasets/movielens/"> MovieLens 20m</a>
   - Task: Getting top rated movies using dataframe operations
-  - <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week7_movielens.ipynb">Link</a>
+ 
 
 #### Lessons
 
@@ -41,11 +40,10 @@ This repository contains various Data Science projects using <a href="https://sp
 - Learning how to use dataframes operations to get insights from the data
 - Learning how to present the analysis in a comprehensive manner
 
-### Linear Regression: Predicting house prices
+### <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week9_ml_linearregression.ipynb"> Linear Regression: Predicting house prices</a>
 
 - Data: House Sales in King County, USA
 - Task: Predict the price of a house based on the other features
-- <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/week9_ml_linearregression.ipynb">Link</a>
 
 #### Lessons
 
@@ -54,11 +52,10 @@ This repository contains various Data Science projects using <a href="https://sp
 - Understanding regression in the context of a real-world problem
 - Learning how to evaluate regression models
 
-### Classification: "Spam or Ham" message classifier
+### <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/last_CV_Pipeline.ipynb"> Classification: "Spam or Ham" message classifier</a>
 
 - <a href="https://github.com/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/data/spam.csv">Data</a>: Messages labeled as Ham or Spam
 - Task: Training a ML-based message classifier
-- <a href="https://nbviewer.jupyter.org/github/AmmarRashed/Mission_TA/blob/master/CS340_spring_2018/last_CV_Pipeline.ipynb">Link</a>
 
 #### Lessons
 
